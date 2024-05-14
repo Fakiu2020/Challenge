@@ -1,0 +1,10 @@
+C:\Development\NetChallenge\NetChallenge\NetChallenge\bin\Release\netstandard2.0\NetChallenge.deps.json
+C:\Development\NetChallenge\NetChallenge\NetChallenge\bin\Release\netstandard2.0\NetChallenge.dll
+C:\Development\NetChallenge\NetChallenge\NetChallenge\bin\Release\netstandard2.0\NetChallenge.pdb
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.csproj.AssemblyReference.cache
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.AssemblyInfoInputs.cache
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.AssemblyInfo.cs
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.csproj.CoreCompileInputs.cache
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.dll
+C:\Development\NetChallenge\NetChallenge\NetChallenge\obj\Release\netstandard2.0\NetChallenge.pdb

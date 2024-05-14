@@ -1,4 +1,5 @@
 ﻿using NetChallenge.Domain;
+using NetChallenge.Dto.Input;
 
 namespace NetChallenge.Abstractions
 {

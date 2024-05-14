@@ -1,7 +1,10 @@
-﻿namespace NetChallenge.Dto.Input
+﻿using System.Runtime.CompilerServices;
+
+namespace NetChallenge.Dto.Input
 {
     public class AddLocationRequest
     {
+      
         public string Name { get; set; }
         public string Neighborhood { get; set; }
     }
